@@ -1,1 +1,7 @@
-# SmartFinancialAdvisor
+# Smart_Financial_Companion_for_International_Students_Overseas
+
+The goal of this project is to provide overseas students studying in the US with a smart tool for managing their money. To provide a safe, data-driven financial assistant, this solution combines machine learning, predictive analytics, NLP, and blockchain security. Users may keep tabs on their expenditure, plan for future savings, and even get personalized investment advice based on their income, spending patterns, and financial objectives, all from artificial intelligence.  
+
+The Flask-based backend processes data, models AI, and integrates chatbots through OpenAI's GPT API. A scikit-learn-powered linear regression model estimates users' future savings depending on their income and spending habits, and a chatbot powered by artificial intelligence provides real-time financial advice. Ethereum smart contracts, which are built on the blockchain, safeguard consumers from fraud by ensuring that financial transactions are secure and transparent. The frontend, built using React.js and React Native, offers a responsive and user-friendly interface that facilitates smooth system interaction for students.  
+
+This system automates financial tracking and increases financial literacy through real-time statistics. It is deployed on Render for backend hosting and AWS/Heroku for frontend scalability. This initiative aims to help overseas students improve their financial decision-making and attain long-term financial stability by connecting standard budgeting apps with AI-driven financial intelligence.
